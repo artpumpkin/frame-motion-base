@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -56,4 +55,3 @@ Just a repository to test frame-motion animations.
 
 # LICENCE
 MIT
->>>>>>> 1af18e9fb9d7286abaf532828f963275b74555ba
